@@ -6,8 +6,8 @@
 You will build a software engineering team generator command line application. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. This assignment must also pass all unit tests. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user. 
 
 ## Github links
-https://github.com/huqian301/Team-Profile-Generator<br>
-https://huqian301.github.io/Team-Profile-Generator/Develop/output/team.html
+https://github.com/huqian301/Template-Engine<br>
+https://huqian301.github.io/Template-Engine//Develop/output/team.html
 
 ## Output 
 Here is the [Video](https://drive.google.com/drive/folders/1nF0Fjx1hyNpdeGy_t23cy0_BggAMuxqL?usp=sharing) that shows all the processes.<br>
